@@ -1,0 +1,310 @@
+[
+  {
+    "is_start": "2022-01-01",
+    "oos_start": "2023-01-01",
+    "params": {
+      "pairs": {
+        "lookback": 93,
+        "z_open": 2.0604461626539665,
+        "z_close": 0.20180398499173316
+      },
+      "breakout": {
+        "lookback": 30
+      },
+      "mtf": {
+        "short": 15,
+        "long": 60
+      },
+      "rotation": {
+        "lookback": 52,
+        "top_k": 2
+      },
+      "orderbook": {
+        "lookback": 6,
+        "vol_mult": 3.0595274581700678
+      }
+    },
+    "is_return": 0.4000552351379394,
+    "oos_return": 0.057841082611084005
+  },
+  {
+    "is_start": "2022-04-01",
+    "oos_start": "2023-04-01",
+    "params": {
+      "pairs": {
+        "lookback": 99,
+        "z_open": 2.0376938269540696,
+        "z_close": 0.7887216185701031
+      },
+      "breakout": {
+        "lookback": 58
+      },
+      "mtf": {
+        "short": 5,
+        "long": 20
+      },
+      "rotation": {
+        "lookback": 37,
+        "top_k": 2
+      },
+      "orderbook": {
+        "lookback": 6,
+        "vol_mult": 2.213404336218426
+      }
+    },
+    "is_return": 0.31871930046081554,
+    "oos_return": 0.007250016479492194
+  },
+  {
+    "is_start": "2022-06-30",
+    "oos_start": "2023-06-30",
+    "params": {
+      "pairs": {
+        "lookback": 37,
+        "z_open": 2.310704986795808,
+        "z_close": 0.6091421706032132
+      },
+      "breakout": {
+        "lookback": 58
+      },
+      "mtf": {
+        "short": 8,
+        "long": 24
+      },
+      "rotation": {
+        "lookback": 31,
+        "top_k": 2
+      },
+      "orderbook": {
+        "lookback": 6,
+        "vol_mult": 2.1728545617643658
+      }
+    },
+    "is_return": 0.31628340408325206,
+    "oos_return": -0.057790026855468746
+  },
+  {
+    "is_start": "2022-09-28",
+    "oos_start": "2023-09-28",
+    "params": {
+      "pairs": {
+        "lookback": 40,
+        "z_open": 1.9170212408064424,
+        "z_close": 0.561849371200283
+      },
+      "breakout": {
+        "lookback": 57
+      },
+      "mtf": {
+        "short": 10,
+        "long": 44
+      },
+      "rotation": {
+        "lookback": 54,
+        "top_k": 2
+      },
+      "orderbook": {
+        "lookback": 10,
+        "vol_mult": 2.231042585283064
+      }
+    },
+    "is_return": 0.2561421844482421,
+    "oos_return": 0.16223414672851555
+  },
+  {
+    "is_start": "2022-12-27",
+    "oos_start": "2023-12-27",
+    "params": {
+      "pairs": {
+        "lookback": 21,
+        "z_open": 1.8936519651857522,
+        "z_close": 0.48259233404018786
+      },
+      "breakout": {
+        "lookback": 59
+      },
+      "mtf": {
+        "short": 8,
+        "long": 74
+      },
+      "rotation": {
+        "lookback": 10,
+        "top_k": 3
+      },
+      "orderbook": {
+        "lookback": 3,
+        "vol_mult": 1.5175903621788773
+      }
+    },
+    "is_return": 0.5616637424468993,
+    "oos_return": -0.1441076533508301
+  },
+  {
+    "is_start": "2023-03-27",
+    "oos_start": "2024-03-26",
+    "params": {
+      "pairs": {
+        "lookback": 25,
+        "z_open": 2.4356425675178235,
+        "z_close": 0.5302109081204953
+      },
+      "breakout": {
+        "lookback": 54
+      },
+      "mtf": {
+        "short": 9,
+        "long": 28
+      },
+      "rotation": {
+        "lookback": 59,
+        "top_k": 3
+      },
+      "orderbook": {
+        "lookback": 10,
+        "vol_mult": 2.6265139945528846
+      }
+    },
+    "is_return": 0.9092819352722168,
+    "oos_return": -0.044342092132568345
+  },
+  {
+    "is_start": "2023-06-25",
+    "oos_start": "2024-06-24",
+    "params": {
+      "pairs": {
+        "lookback": 22,
+        "z_open": 2.372985590935634,
+        "z_close": 0.8442442690649419
+      },
+      "breakout": {
+        "lookback": 48
+      },
+      "mtf": {
+        "short": 15,
+        "long": 23
+      },
+      "rotation": {
+        "lookback": 45,
+        "top_k": 3
+      },
+      "orderbook": {
+        "lookback": 10,
+        "vol_mult": 2.6364235675155334
+      }
+    },
+    "is_return": 0.7293070379638671,
+    "oos_return": -0.11957276657104488
+  },
+  {
+    "is_start": "2023-09-23",
+    "oos_start": "2024-09-22",
+    "params": {
+      "pairs": {
+        "lookback": 119,
+        "z_open": 2.7699898319074654,
+        "z_close": 0.20502033971785033
+      },
+      "breakout": {
+        "lookback": 46
+      },
+      "mtf": {
+        "short": 11,
+        "long": 20
+      },
+      "rotation": {
+        "lookback": 23,
+        "top_k": 3
+      },
+      "orderbook": {
+        "lookback": 8,
+        "vol_mult": 2.8497166791083406
+      }
+    },
+    "is_return": 0.6854666017150879,
+    "oos_return": -0.04512881576538086
+  },
+  {
+    "is_start": "2023-12-22",
+    "oos_start": "2024-12-21",
+    "params": {
+      "pairs": {
+        "lookback": 50,
+        "z_open": 2.640074631946165,
+        "z_close": 0.6711136175775114
+      },
+      "breakout": {
+        "lookback": 53
+      },
+      "mtf": {
+        "short": 5,
+        "long": 44
+      },
+      "rotation": {
+        "lookback": 48,
+        "top_k": 2
+      },
+      "orderbook": {
+        "lookback": 6,
+        "vol_mult": 1.5263538597826953
+      }
+    },
+    "is_return": 1.4616566950988767,
+    "oos_return": -0.21293277008056644
+  },
+  {
+    "is_start": "2024-03-21",
+    "oos_start": "2025-03-21",
+    "params": {
+      "pairs": {
+        "lookback": 60,
+        "z_open": 2.8166954318920037,
+        "z_close": 0.47506116630999956
+      },
+      "breakout": {
+        "lookback": 49
+      },
+      "mtf": {
+        "short": 14,
+        "long": 24
+      },
+      "rotation": {
+        "lookback": 36,
+        "top_k": 3
+      },
+      "orderbook": {
+        "lookback": 3,
+        "vol_mult": 1.597065669371399
+      }
+    },
+    "is_return": 0.747644161529541,
+    "oos_return": 0.09698840194702152
+  },
+  {
+    "is_start": "2024-06-19",
+    "oos_start": "2025-06-19",
+    "params": {
+      "pairs": {
+        "lookback": 45,
+        "z_open": 2.717271462127134,
+        "z_close": 0.5541672100238494
+      },
+      "breakout": {
+        "lookback": 51
+      },
+      "mtf": {
+        "short": 10,
+        "long": 44
+      },
+      "rotation": {
+        "lookback": 36,
+        "top_k": 3
+      },
+      "orderbook": {
+        "lookback": 3,
+        "vol_mult": 1.6037417979376296
+      }
+    },
+    "is_return": 1.3362984162902833,
+    "oos_return": 0.06613017303466795
+  }
+]

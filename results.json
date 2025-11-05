@@ -1,0 +1,26 @@
+{
+  "final_return_pct": 2.0276140228271484,
+  "n_trades": 3308,
+  "last_tuned": {
+    "pairs": {
+      "lookback": 45,
+      "z_open": 2.717271462127134,
+      "z_close": 0.5541672100238494
+    },
+    "breakout": {
+      "lookback": 51
+    },
+    "mtf": {
+      "short": 10,
+      "long": 44
+    },
+    "rotation": {
+      "lookback": 36,
+      "top_k": 3
+    },
+    "orderbook": {
+      "lookback": 3,
+      "vol_mult": 1.6037417979376296
+    }
+  }
+}
